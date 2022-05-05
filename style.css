@@ -44,3 +44,8 @@ body {
   right: 20px;
   z-index: 2;
 }
+
+.pose {
+  top: 50px;
+  right: 50px;
+}
