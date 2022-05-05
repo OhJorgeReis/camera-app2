@@ -44,8 +44,11 @@ body {
   right: 20px;
   z-index: 2;
 }
-
-.pose {
-  top: 50px;
-  right: 50px;
+.img {
+  content: "";
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  display: inline;
+  -webkit-transform: translateY(0%) translateX(0%);
 }
